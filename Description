@@ -1,0 +1,37 @@
+This Respotory stores my java2 data structures coding assignment
+Programming Language: Java
+
+IntegerSet: 
+  This program create IntegerSet with hold Intergers in range of 1-10.
+provided with method of union,intersection,insertElement,deleteElement,toString
+    DataStructrure: set
+
+addingLargeIntegers:
+   This program calculate the addition result of two large numbers by using stack
+   data structure: stack
+   
+freryFraction:
+  freryFractionNode: Node class
+  freryFraction: This program takes one interger and return the farey fraction 
+  data structrure: node ,linked list
+  
+AddTwoStrings:
+    This program fix the string with three methods: check,delete,add
+     print given length substring in the String using recursion
+     methods: recursion
+     
+MorseCode:
+    MorseNode: Node class
+    MorseCode: using a tree structure to implement "-" and "." node into the tree to translate signals into character and vice versa
+    dataStrucrture: tree, linked list
+    
+ HashTable:
+     Write a cross reference program implemented with hashing so that the program outputs alphabetized list  of all words in an file along with the line of the numbers
+      dataStructure: hash table, linked list
+      
+ MergeSort:
+      implement and analyze the complexity of non-recursive version of mergesort.
+      algorithm: mergeSort
+      
+  
+  
